@@ -10,4 +10,4 @@ All of my data wrangling efforts are documented in the respective Jupyter Notebo
 If you'd like to work with the interactive plotly charts, then you could download this repository and run the Jupyter Notebooks from your local machine  or you can use this website to view the Jupyter Notebooks by loading the GitHub URL for each .ipynb file:
 https://nbviewer.jupyter.org/
 
-Feel free to comment on my data wrangling techniques as this project is more focused on learning the basics of Data Science then getting everyhting perfect.
+Feel free to comment on my data wrangling techniques as this project is more focused on learning the basics of Data Science than getting everyhting perfect.
