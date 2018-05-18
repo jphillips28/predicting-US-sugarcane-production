@@ -1,7 +1,7 @@
 ### Springboard.com: Data Science Career Track: Capstone Project 1
 # Predicting Sugarcane Production in the United States
 
-### Data Science Project Proposal
+### Project Proposal
 The efforts associated with coming up with a business oriented project proposal are documented in the **02 Project Proposals** folder. 
 
 Feel free to comment on my project proposal techniques as this project is more focused on learning the basics of Data Science than getting everything perfect.
