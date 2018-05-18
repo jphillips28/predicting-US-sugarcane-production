@@ -1,5 +1,0 @@
-1. Combine Historical Weather Data with Historical Social Event Data (i.e. Concerts, Conferences, Seminars, Sporting Events, etc.) to compare to Historical Traffic Data to try and predict automobile travel times based on forecasted weather and planned social event data
-
-2. Use Historical Weather Data to compare to Historical Energy and Water Consumption Data to try and predict energy and water consumption demands
-
-3. Use Historical Weather Data to compare to Historical Agricultural Crop Output Data to try and predict agricultural crop yields
