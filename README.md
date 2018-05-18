@@ -5,7 +5,7 @@
 The efforts associated with coming up with a business oriented project proposal are documented in the **02 Project Proposals** folder. 
 
 Feel free to comment on my project proposal techniques as this project is more focused on learning the basics of Data Science than getting everything perfect.
-
+***
 ### Data Wrangling
 All of my data wrangling efforts are documented in the respective Jupyter Notebooks found in the  **03 Data Wrangling** folder:
 1. us_sugarcane_data_wrangle.ipynb -> output = df_sugarcane.csv
@@ -18,7 +18,7 @@ If you'd like to work with the interactive plotly charts, then you could downloa
 https://nbviewer.jupyter.org/
 
 Feel free to comment on my data wrangling techniques as this project is more focused on learning the basics of Data Science than getting everything perfect.
-
+***
 ### Data Storytelling
 All of my data storytelling efforts are documented in the Jupyter Notebook found in the  **04 Data Storytelling** folder. I might generate a two page Google document "beautifying" this effort in the near future.
 
