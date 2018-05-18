@@ -1,5 +1,5 @@
-# Springboard.com: Data Science Career Track
-## Capstone Project 1
+### Springboard.com: Data Science Career Track: Capstone Project 1
+# Predicting Sugarcane Production in the United States
 
 ### Data Wrangling
 All of my data wrangling efforts are documented in the respective Jupyter Notebooks found in the  **Datasets** folder:
