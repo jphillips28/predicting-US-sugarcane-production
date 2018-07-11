@@ -28,3 +28,8 @@ Feel free to comment on my data storytelling techniques as this project is more 
 All of my inferential statistic efforts are documented in the Jupyter Notebook found in the  **05 Inferential Statistics** folder. I have generated distribution plots for all of the input variables in question and documented their mean and standard deviations.
 
 Feel free to comment on my inferential statistic techniques as this project is more focused on learning the basics of Data Science than getting everything perfect.
+***
+### Machine Learning
+All of my machine learning efforts are documented in the Jupyter Notebook found in the  **06 Machine Learning** folder. I have used both a basic Linear Regression algorithm as well as a Random Forest Regressor algorithm.
+
+Feel free to comment on my machine learning techniques as this project is more focused on learning the basics of Data Science than getting everything perfect.
