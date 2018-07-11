@@ -23,3 +23,8 @@ Feel free to comment on my data wrangling techniques as this project is more foc
 All of my data storytelling efforts are documented in the Jupyter Notebook found in the  **04 Data Storytelling** folder. I might generate a two page Google document "beautifying" this effort in the near future.
 
 Feel free to comment on my data storytelling techniques as this project is more focused on learning the basics of Data Science than getting everything perfect.
+***
+### Inferential Statistics
+All of my inferential statistic efforts are documented in the Jupyter Notebook found in the  **05 Inferential Statistics** folder. I have generated distribution plots for all of the input variables in question and documented their mean and standard deviations.
+
+Feel free to comment on my inferential statistic techniques as this project is more focused on learning the basics of Data Science than getting everything perfect.
