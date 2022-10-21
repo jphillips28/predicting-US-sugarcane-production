@@ -4,6 +4,14 @@
 ### Project Proposal
 The efforts associated with coming up with a business oriented project proposal are documented in the **02 Project Proposals** folder. 
 
+### Installation and Setup
+- I'm using Windows 11 WSL2 with an Ubuntu 22.04.1 LTS linux distro
+- Inside said linux distro, I'm using Python 3.10.6 with `pip3 version pip 22.0.2 from /usr/lib/python3/dist-packages/pip (python 3.10)`
+1. Clone this repo where ever you like inside your linux distro
+2. Open the cloned repo with Visual Studio Code by navigating to the cloned directory and executing `code .` in the CLI
+3. I'm currently using the Jupyter v2022.9 VSCode extension (_the bundeled package of VSCode Jupyter extensions from Microsoft_)
+4. Install the required `.ipynb` imports via executing `pip3 install <import>` (_i.e. `pip3 install pandas`_)
+
 Feel free to comment on my project proposal techniques as this project is more focused on learning the basics of Data Science than getting everything perfect.
 ***
 ### Data Wrangling
